@@ -149,3 +149,16 @@
 .Services_bg {
   background-color: whitesmoke;
 }
+/* ********************************Products_Offer_section******************************** */
+.Products_Offer_bg {
+  background-color: whitesmoke;
+  padding: 70px;
+}
+.product-1_img {
+  /* padding-left: 50px; */
+}
+@media (max-width: 540px) {
+  .Mobile_bg {
+    background-color: white;
+  }
+}
