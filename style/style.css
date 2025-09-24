@@ -1,6 +1,10 @@
-.all_var a {
+/****************************** importente *************************/
+
+body a {
   text-decoration: none;
 }
+/************************************ nav vare  *********************/
+
 .Topbar {
   margin-left: -20px;
 }
@@ -162,3 +166,17 @@
     background-color: white;
   }
 }
+/* ///////////////////////////////////img bener start//////////////////////////////  --> */
+.card_img_1 {
+  background: #f5c37e;
+
+  opacity: 0.5;
+}
+.card_img_2 {
+  background: #f7f7f7;
+  opacity: 0.4;
+}
+.bener_card h1 {
+  font-weight: 700;
+}
+/* /////////// */
