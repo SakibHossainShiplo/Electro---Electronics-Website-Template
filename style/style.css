@@ -14,6 +14,10 @@ body a {
 .btn {
   border: none;
 }
+.text_electro {
+  font-weight: 700;
+  color: #e04b2a;
+}
 
 /* ************************************************hero section ***********************************/
 .promo-slide {
@@ -298,4 +302,16 @@ body a {
 .footer-item a,
 p {
   color: #8a9188;
+}
+/* ///////////////////////shop style////////////////////// */
+/*///////////////////////// hero section /////////////////*/
+.page-header {
+  background-image: url(../img/carousel-1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+/*///////////////////// Products Categories//////////////////////////////// */
+.product-tags a {
+  margin-bottom: 10px;
+  margin-top: 50px;
 }
